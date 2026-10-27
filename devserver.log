@@ -1,0 +1,41 @@
+
+  VITE v5.4.21  ready in 200 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://169.254.77.2:3000/
+2:14:12 PM [vite] hmr update /src/App.jsx
+2:14:30 PM [vite] hmr update /src/App.jsx
+2:15:05 PM [vite] hmr update /src/index.css
+2:17:21 PM [vite] ✨ new dependencies optimized: motion/react, three, @hugeicons/react, @hugeicons/core-free-icons
+2:17:21 PM [vite] ✨ optimized dependencies changed. reloading
+2:22:43 PM [vite] page reload index.html
+2:26:21 PM [vite] hmr update /src/App.jsx
+2:26:27 PM [vite] page reload src/main.jsx
+2:27:46 PM [vite] hmr update /src/index.css
+2:28:21 PM [vite] ✨ new dependencies optimized: react-router-dom
+2:28:21 PM [vite] ✨ optimized dependencies changed. reloading
+2:32:31 PM [vite] hmr update /src/pages/Home.jsx
+2:32:31 PM [vite] hmr update /src/pages/Gallery.jsx
+2:32:31 PM [vite] hmr update /src/pages/Stay.jsx
+2:32:31 PM [vite] hmr update /src/pages/Menu.jsx
+2:32:31 PM [vite] hmr update /src/pages/Play.jsx
+2:32:31 PM [vite] hmr update /src/pages/Contact.jsx
+2:33:06 PM [vite] page reload src/main.jsx
+2:33:12 PM [vite] hmr update /src/chrome.jsx
+2:34:46 PM [vite] hmr update /src/App.jsx
+2:35:14 PM [vite] hmr update /src/App.jsx
+2:35:45 PM [vite] hmr update /src/index.css
+2:36:06 PM [vite] hmr update /src/index.css
+2:36:53 PM [vite] hmr update /src/index.css
+2:39:26 PM [vite] hmr update /src/App.jsx
+2:39:52 PM [vite] hmr update /src/App.jsx
+2:40:16 PM [vite] hmr update /src/index.css
+2:42:49 PM [vite] hmr update /src/App.jsx
+2:43:08 PM [vite] hmr update /src/index.css
+2:45:22 PM [vite] hmr update /src/App.jsx
+2:56:41 PM [vite] hmr update /src/App.jsx
+2:57:09 PM [vite] hmr update /src/chrome.jsx, /src/App.jsx
+2:57:16 PM [vite] hmr update /src/index.css
+2:57:35 PM [vite] hmr update /src/components/StickerPeel.jsx
+2:57:35 PM [vite] hmr update /src/components/StickerPeel.css
+2:59:08 PM [vite] page reload freebuff-sites-build/assets/index.html
